@@ -33,7 +33,6 @@ But note that you will need to provide your own `packetbeat.conf`.
 
 ## Thanks
 
-* [@dansowter](https://github.com/dansowter) for providing a starting point in [this
-* ticket](https://github.com/packetbeat/packetbeat/issues/13).
+* [@dansowter](https://github.com/dansowter) for providing a starting point in [this ticket](https://github.com/packetbeat/packetbeat/issues/13).
 * [Jan Lelis](https://github.com/janlelis) for the help.
 * Hypoport AG for hosting #DockerHackDay Berlin :-)
